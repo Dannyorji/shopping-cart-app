@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "HolyBook",
+    "price": 10.99,
+    "imgUrl": "/imgs/HolyBook.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 1199.0,
+    "imgUrl": "/imgs/Laptop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 102.99,
+    "imgUrl": "/imgs/Banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 9000.99,
+    "imgUrl": "/imgs/Car.jpg"
+  }
+]
